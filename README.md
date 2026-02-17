@@ -17,4 +17,4 @@ Resumen: Es un Sistema web MVC que se encarga de gestionar las solicitudes de re
 
 Color: Rosado 
 
-lenguajes de programación: C#, MVC, bootstrap, JQUERY, JSON, SQLServer, javascript, css, html
+lenguajes de programación: C#, MVC, bootstrap, JQUERY, JSON, SQLServer, javascript, css, html.
